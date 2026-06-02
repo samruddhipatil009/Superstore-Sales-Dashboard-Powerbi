@@ -32,8 +32,9 @@ This repository contains solutions for Data Analyst Internship tasks using the S
 - `Samruddhi_Task2_Report.pdf` - Visual report with insights
 
 ### Dashboard Preview - Page 1
-![Superstore Dashboard](/Super-store-Sales-Dashboard.png)
-![Superstore Dashboard](/Super-store-Sales-Dashboard(2).png)
+![Superstore Dashboard](/Superstore-Sales-Dashboard 1.png)
+
+![Superstore Dashboard](/Superstore-Sales-Dashboard 2.png)
 
 ### Key Business Insights:
 1. **Overall Performance:** $1.6M total sales and $175K profit from 22K orders
@@ -51,6 +52,5 @@ This repository contains solutions for Data Analyst Internship tasks using the S
 **Name:** Samruddhi Patil  
 **Internship:** Data Analyst Intern
 
----
 
 ## 📂 Repository Structure
