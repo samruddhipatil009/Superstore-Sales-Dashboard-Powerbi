@@ -1,6 +1,6 @@
 # Data Analyst Internship - Superstore Sales Analysis
 
-## 📌 Overview
+##  Overview
 This repository contains solutions for Data Analyst Internship tasks using the Superstore dataset. 
 
 **Tools Used:** Power BI, Microsoft Excel  
@@ -32,7 +32,8 @@ This repository contains solutions for Data Analyst Internship tasks using the S
 - `Samruddhi_Task2_Report.pdf` - Visual report with insights
 
 ### Dashboard Preview - Page 1
-![Superstore Dashboard](Task-2/Super-Store-Sales-Dashboard.png)
+![Superstore Dashboard](/Super-store-Sales-Dashboard.png)
+![Superstore Dashboard](/Super-store-Sales-Dashboard(2).png)
 
 ### Key Business Insights:
 1. **Overall Performance:** $1.6M total sales and $175K profit from 22K orders
