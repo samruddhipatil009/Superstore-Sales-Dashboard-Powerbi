@@ -32,9 +32,9 @@ This repository contains solutions for Data Analyst Internship tasks using the S
 - `Samruddhi_Task2_Report.pdf` - Visual report with insights
 
 ### Dashboard Preview - Page 1
-![Superstore Dashboard](/Superstore-Sales-Dashboard 1.png)
+![Superstore Dashboard](/Superstore-Sales-Dashboard 1.jpeg)
 
-![Superstore Dashboard](/Superstore-Sales-Dashboard 2.png)
+![Superstore Dashboard](/Superstore-Sales-Dashboard 2.jpeg)
 
 ### Key Business Insights:
 1. **Overall Performance:** $1.6M total sales and $175K profit from 22K orders
@@ -47,10 +47,6 @@ This repository contains solutions for Data Analyst Internship tasks using the S
 8. **Seasonal Trend:** Sales peak from September to November yearly
 9. **State-wise Analysis:** California, New York, and Texas are top 3 states
 10. **Sales Forecast:** 15-day forecast shows positive growth trend for Jan 2021
-
-11. 
+ 
 **Name:** Samruddhi Patil  
-**Internship:** Data Analyst Intern
-
-
-## 📂 Repository Structure
+**Internship:** Data Analyst Internship
