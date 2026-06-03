@@ -1,4 +1,4 @@
-# Super-store-Sales-Dashboard-Powerbi
+# Super-Store-Sales-Dashboard-Powerbi
 
 ### Overview
 This Power BI dashboard analyzes Superstore sales data from 2019-2020 across products, regions, customer segments, and forecasts to help businesses make data-driven decisions.
@@ -29,11 +29,10 @@ This Power BI dashboard analyzes Superstore sales data from 2019-2020 across pro
 - DAX for calculated measures
 
 ### Files in Repository
-- `Super-Store-Sales-Dashboard.pbix` - Power BI source file
-- `Superstore-Sales-Dashboard 1.png` - Dashboard Page 1 screenshot
-- `Superstore-sales-Dashboard 2.png` - Dashboard Page 2 screenshot
-- `superstore_sales_Cleaned dataset.xlsx` - Cleaned dataset used
-
+- Super-Store-Sales-Dashboard.pbix - Power BI source file
+- Super-Store-Sales-Dashboard 1.png - Dashboard Page 1 screenshot
+- Super-Store-Sales-Dashboard 2.png - Dashboard Page 2 screenshot
+- superstore_sales_Cleaned dataset.xlsx - Cleaned dataset used
 ### Dashboard Preview
 
 #### Page 1: Sales Overview
