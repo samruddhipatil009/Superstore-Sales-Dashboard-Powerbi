@@ -34,7 +34,7 @@ This repository contains solutions for Data Analyst Internship tasks using the S
 ### Dashboard Preview - Page 1
 ![Superstore Dashboard](Superstore-Sales-Dashboard 1.jpeg)
 
-![Superstore Dashboard](Superstore-Sales-Dashboard 2.jpeg)
+![Superstore Dashboard](Superstore-sales-Dashboard 2.jpeg)
 
 ### Key Business Insights:
 1. **Overall Performance:** $1.6M total sales and $175K profit from 22K orders
